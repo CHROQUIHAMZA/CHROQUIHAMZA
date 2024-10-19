@@ -13,7 +13,7 @@
 - **Languages:** C, C++, JavaScript, PHP , SQL ,Assembly ,Prolog ,Jquery
 - **Frameworks & Tools:**
      - **Backend:** Express, Node.js, MongoDB, bcrypt, JWT, Mongoose
-     - **Frontend:** React, Axios, React Router, React Toastify, Styled Components
+     - **Frontend:** React, Axios, React Router, React Toastify, Styled Components,Tailwindcss,Bootstrap
 - **APIs:** Experience in building and consuming RESTful APIs
 - **Security Tools:** Fedora
 - **Database Knowledge:** E/R Model, Relational Model, SQL, Relational Algebra , NoSQL
