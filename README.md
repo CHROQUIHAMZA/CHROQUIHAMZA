@@ -1,35 +1,44 @@
 # Hello, I'm Chroqui Hamza 👋
 
-## 🧠 Interests
-👋 Hi there! I'm a dedicated **Software Engineering student** with a strong ambition in **Computer Science**.
-💻 I have hands-on experience working on various projects, including:
-- 🌐 **Web Development** projects using **HTML, CSS, PHP, AJAX,** and **jQuery**.
-- 🖥️ Building applications with the **MERN stack** (MongoDB, Express.js, React, Node.js).
-- 🎮 Developing a **game** using the **GTK** library in **C**.
-🌱 I'm constantly learning and exploring new technologies, and I'm excited to collaborate on innovative projects.
-✨ Let's connect and share ideas!
+## 👨‍💻 About Me
+I am a **Final-Year Software Engineering Student** (Bac+5) passionate about building robust architectures and scalable solutions.
+I have a strong background in **Fullstack Development** and **Software Architecture**, combining technical rigor with a product-oriented mindset.
+
+- 💼 **Former Intern at CASH PLUS (Fintech):** Worked on critical microservices architecture, payment solutions, and high-performance APIs.
+- 🔭 **Currently working on:** A Gaming E-commerce platform and Geospatial tracking systems.
+- 🌱 **Focus:** I bridge the gap between complex Backend logic (Java/Spring, .NET) and modern Frontend experiences (React, Next.js).
 
 ## 🚀 Technical Skills
-- **Languages:** C, C++, JavaScript, PHP , SQL ,Assembly ,Prolog ,Jquery
-- **Frameworks & Tools:**
-     - **Backend:** Express, Node.js, MongoDB, bcrypt, JWT, Mongoose
-     - **Frontend:** React, Axios, React Router, React Toastify, Styled Components,Tailwindcss,Bootstrap
-- **APIs:** Experience in building and consuming RESTful APIs
-- **Security Tools:** Fedora
-- **Database Knowledge:** E/R Model, Relational Model, SQL, Relational Algebra , NoSQL
-- **others** : HTML5, CSS3, LATEX, GIT, Shell
+
+### 💻 Languages
+- **Core:** Java, C#, JavaScript (ES6+), TypeScript, C, C++, SQL.
+
+### ⚙️ Backend & Architecture
+- **Frameworks:** Spring Boot (Java), .NET Core (C#), Node.js, Express.js.
+- **ORM & Data Access:** Hibernate, Entity Framework Core, Prisma.
+- **Architecture:** Microservices, RESTful APIs, MVC, Layered Architecture.
+- **Modeling:** UML, Merise, MDE (Model Driven Engineering), ATL.
+
+### 🎨 Frontend & Mobile
+- **Web:** React.js, Next.js 14+, TailwindCSS, Bootstrap.
+- **Mobile:** React Native, Expo.
+- **State Management & Tools:** Redux, React Query, Axios.
+
+### 🗄️ Database & Geospatial
+- **Databases:** PostgreSQL (Advanced), MongoDB, MySQL.
+- **Geospatial:** PostGIS, pgRouting, Leaflet, OpenStreetMap (OSM), QGIS.
+
+### 🛠️ DevOps, Cloud & Tools
+- **Containerization:** Docker, Docker Compose.
+- **Deployment:** VPS Management (Linux/Ubuntu), Azure, Cloudflare Tunnels.
+- **Version Control:** Git, GitHub Actions (CI/CD basics).
+- **Others:** LaTeX, Postman.
 
 ## 📚 Learning & Goals
-### Short-Term Goals:
-- Deepening my knowledge of **AI** and **machine learning** techniques.
-### Long-Term Goals:
-- Launching an **open-source project** that fuses **AI**, **cybersecurity**, and **web development** elements.
-
-Feel free to explore my projects, contribute, or reach out for collaboration! 
+- **Current Goal:** Seeking a **PFE Internship (End-of-Studies Internship)** starting Feb 2026.
+- **Interests:** Software Architecture, DevOps patterns, AI integration in Software Engineering.
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/hamza-chroqui-879961256/)
-- [GitHub](https://github.com/CHROQUIHAMZA)
-- [Gmail](hamzachroqui@gmail.com)
-
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-chroqui-879961256/)
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CHROQUIHAMZA)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzachroqui@gmail.com)
