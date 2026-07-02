@@ -3,8 +3,8 @@
 ## 👨‍💻 About Me
 I am a **Software Engineer** with a strong background in **Fullstack Development**, **Software Architecture**, and **AI-driven systems** (multi-agent orchestration, RAG pipelines), combining technical rigor with a product-oriented mindset.
 
-- 💼 **Ability Management (Fintech/AI, Jan–June 2026):** Designed and built a multi-agent system from scratch, using **LangGraph** and a **Hybrid RAG architecture** with **Qdrant** to move beyond classic helpdesk automation.
-- 💼 **CASH PLUS (Fintech):** Worked on a hybrid payment microservices architecture (Spring, Redis, SQL Server, Eureka, Zipkin), enabling cash-to-digital transactions for unbanked populations.
+- 💼 **Ability Management (Jan–June 2026):** Designed and built a multi-agent system from scratch, using **LangGraph** and a **Hybrid RAG architecture** with **Qdrant** to move beyond classic helpdesk automation.
+- 💼 **CASH PLUS (April-June 2025):** Worked on a hybrid payment microservices architecture (Spring, Redis, SQL Server, Eureka, Zipkin), enabling cash-to-digital transactions for unbanked populations.
 - 🎓 **Academic/Personal Projects:** Sport-Link (sport matchmaking platform with vector-based recommendation) and SafePath (geospatial routing app with PostGIS).
 - 🌱 **Focus:** I bridge the gap between complex Backend logic (Java/Spring), modern Frontend experiences (React, Next.js), and AI integration (LLMs, vector search, multi-agent systems).
 
